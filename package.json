@@ -1,0 +1,23 @@
+{
+  "name": "vimm-to-twitch",
+  "version": "1.0.0",
+  "description": "Vimm chat Relay to Twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vimmtv"
+  ],
+  "author": "ChisdealHDYT (https://chisdealhd.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "nconf": "^0.11.3",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.0",
+    "vimm-chat-lib": "^1.0.2"
+  }
+}

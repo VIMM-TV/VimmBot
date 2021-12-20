@@ -1,0 +1,14 @@
+{
+  "vimmtv": {
+    "connect": [
+      "starbot",
+      "chiren"
+    ],
+    "token": "I7SwDonK.XOT1jFMYtIiX3HIo6sVODrobA9sG3dc1"
+  },
+  "users": {
+    "chiren": {
+      "discord": "https://discord.gg/aR2RWGU"
+    }
+  }
+}
