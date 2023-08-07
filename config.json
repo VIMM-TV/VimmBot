@@ -2,13 +2,26 @@
   "vimmtv": {
     "connect": [
       "starbot",
-      "chiren"
+      "chiren",
+      "ddrfr33k",
+      "ciderjunkie",
+      "shufunk",
+      "underskeed",
+      "eboyluva",
+      "misticogama"
     ],
     "token": "I7SwDonK.XOT1jFMYtIiX3HIo6sVODrobA9sG3dc1"
   },
   "users": {
     "chiren": {
       "discord": "https://discord.gg/aR2RWGU"
-    }
+    },
+    "ciderjunkie": {
+      "discord": "https://discord.gg/rXBRjvXaZ3"
+    },
+    "eboyluva": {
+      "discord": "https://discord.gg/8wzannC4"
+    },
+    "misticogama": {}
   }
 }
